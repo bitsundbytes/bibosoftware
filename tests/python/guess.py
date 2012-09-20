@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-secret=133
+secret=1337
 guess=0
 i=0
 while guess!=secret:

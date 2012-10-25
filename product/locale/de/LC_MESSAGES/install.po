@@ -1,0 +1,49 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Bibosoftware Installer 0.1\n"
+"POT-Creation-Date: 2012-10-25 17:24+CEST\n"
+"PO-Revision-Date: 2012-10-25 17:41+0100\n"
+"Last-Translator: Karl Engelhardt <bibotrans@mail.tux.de.tf>\n"
+"Language-Team: Karl Engelhardt <biboinsttran@mail.tux.de.tf>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+"X-Generator: Poedit 1.5.4\n"
+"Language: de\n"
+
+#: install.py:10
+msgid ""
+"Hello, I am the installscript for the Bibosoftware of the Bits und Bytes "
+"Computer-AG of the Bischoefliches Maria-Montessori-Schulzentrums Leipzig."
+msgstr ""
+"Hallo, ich bin das Installscript fuer die Bibosoftware der Bits und Bytes "
+"Computer-AG des Bischoeflichen Maria-Montessori-Schulzentrum Leipzig."
+
+#: install.py:11
+msgid ""
+"Should you find an Issue please don't keep it report it on https://github."
+"com/bitsundbytes/bibosoftware/issues. Thanks."
+msgstr ""
+"Solltest du einen Fehler finden, bitte abhalte ihn nicht, melde ihn unter "
+"https://github.com/bitsundbytes/bibosoftware/issues. Danke."
+
+#: install.py:12
+msgid ""
+"First I have to ask you a few questions. If you don't know what they mean "
+"press enter."
+msgstr ""
+"Zuerst muss ich dir ein paar Fragen stellen. Solltest du nicht wissen, was "
+"damit gemeint ist, druecke einfach Enter."
+
+#: install.py:18
+msgid "Creating Table Media"
+msgstr "Erstelle Tabelle Media"
+
+#: install.py:22
+msgid "Creating Table User"
+msgstr "Erstelle Tabelle User"
